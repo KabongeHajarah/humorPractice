@@ -57,3 +57,6 @@ console.log(Number.parseFloat('10.22'));
 console.log(Number.parseFloat('10'));
 console.log(Number.parseInt('10'));
 
+ x = 100 / "10";
+console.log(isNaN(x));
+
